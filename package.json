@@ -1,0 +1,11 @@
+{
+  "name": "gatsby-image-supporting-netlify-cms",
+  "version": "1.0.0",
+  "description": "Gatsby Image supporting Netlify-CMS preview (aka /admin preview panel)",
+  "main": "PreviewCompatibleImage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Segovia",
+  "license": "ISC"
+}
